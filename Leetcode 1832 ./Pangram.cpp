@@ -21,3 +21,5 @@ class solution{
       return false;
     }
 };
+ 
+// TIME COMPLEXCITIY OF THIS CODE IS O(n).....
