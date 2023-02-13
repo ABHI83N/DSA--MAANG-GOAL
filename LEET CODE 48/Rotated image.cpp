@@ -1,8 +1,8 @@
 class solution{
   public:
    void rotate(vector<vector<int>>& matrix){
-     int m=matrix.size();// We can take out size of 2D matrix
-     
+     int m=matrix.size();// We can take out size of 2D matrix                        
+                                                                                     
      // Firstly we can transpose the matrix using 2 loop 'Diagonally';
      for(int i=0; i < m; i++){
        for(int j=i; i< m; j++){
